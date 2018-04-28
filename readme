@@ -1,0 +1,26 @@
+dictionary
+gcc dictionary.c dictionary_run.c
+./a.out dictionary_1.txt
+sample like this will come
+parsed file "dictionary_1.txt" with 31 entries
+hell
+hell:	A realm of evil and suffering
+
+
+WordSuggestion:
+g++ auto.cpp
+./a.out
+sample
+
+signature:c-dictionary-trie$ g++ auto.cpp
+signature:c-dictionary-trie$ ./a.out
+ar
+arbitrary
+arbitrarte
+arbitrarteion
+arbior
+arbioreal
+arbioreascent
+arbioreastum
+
+
